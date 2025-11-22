@@ -158,4 +158,22 @@ body {
   opacity: 0.85;
 }
 
+.quote {
+    background-color: #C271FF;
+    display: flex;
+    padding: 100px;
+    color: white;
+    height: 393px; 
+    justify-content: center;
+}
+.quote-content {
+    
+    padding: 20;
+    align-content: center;
+    margin-bottom: 50px;
+    margin-left: 50px;
+
+
+}
+
 }
