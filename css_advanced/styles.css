@@ -341,3 +341,40 @@ font-weight: lighter;
 font-size: 60px;
 }
 
+.footer{
+background-color: #071629;
+height: 249px;
+color: white;
+margin-top: 40px;
+
+
+
+}
+
+.display{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-inline: 100px;
+  padding-top: 69px;
+  
+}
+
+
+.icons{
+font-size: 30px;
+}
+.bottom-lg img{
+
+text-align: left;
+height: 30px;
+width: 169px;
+
+}
+.footer > p{
+
+  text-align: center;
+  margin-top: 70px;
+  font-size: 12px;
+}
+
