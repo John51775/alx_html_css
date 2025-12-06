@@ -41,7 +41,9 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 70px;
+    padding: 0 80px;
+    margin: 0;
+    
 }
 
 .logo img {
@@ -128,7 +130,10 @@ font-family: "Source-Sans-Pro-semibold";
 font-family: "Source-Sans-Pro-regular";
 
 }
-.icons{display: flex;
+.icons{
+    
+justify-content: center;   
+display: flex;
 flex-direction: row;
 text-align: center;
 margin-left: 70px;
