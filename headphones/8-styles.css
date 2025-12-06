@@ -578,8 +578,20 @@ min-height: 250px;
 .foot-back i{
   font-size: 30px;
   letter-spacing: 20px;
+  display: inline-block;
   
   
+}
+
+.foot-back i:hover {
+    color: #FF6565;
+    transform: scale(1.3);
+
+    
+}
+.foot-back img:hover{
+  transform: scale(1.1);
+
 }
 .fontt-i{
 
