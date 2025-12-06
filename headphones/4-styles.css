@@ -429,21 +429,38 @@ min-height: 250px;
     margin-left: 30%;
     margin-bottom: 60px;
            }
+
+.foot-back{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+}
+.spacing{
+
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    padding: 40px;
+    justify-content: center;
+
+}
           
 
 .foot-back i{
   font-size: 30px;
+  letter-spacing: 20px;
+  
   
 }
-.spacing{
-   display: flex;
-   flex-direction: row;
-   justify-content: space-between;
-   padding: 40px;
-   
-   
+.fontt-i{
+
+    margin-left: 20px;
 
 }
+
+
 
 
 }
