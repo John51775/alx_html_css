@@ -134,6 +134,7 @@ text-align: center;
 margin-left: 70px;
 margin-right: 70px;
 gap: 20px;
+justify-content: center;
 }
 
 .icons i{font-size: 62px; 
